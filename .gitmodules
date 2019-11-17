@@ -1,0 +1,6 @@
+[submodule "socket-io"]
+	path = socket-io
+	url = https://github.com/tuanvinhtl/socket-io.git
+[submodule "nodejs_Auth"]
+	path = nodejs_Auth
+	url = https://github.com/tuanvinhtl/nodejs_Auth.git
